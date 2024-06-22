@@ -1,3 +1,3 @@
 # First-taran
 this is my forst GitHub repository<br>
-as author- tarandeep kaur
+as author- tarandeep kaur dhanoa
